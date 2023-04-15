@@ -1,0 +1,14 @@
+version: 'api 0.1'
+services:
+  
+  miproyecto:
+    image: api
+    mem_limit: 1024m
+    ports:
+      - 8080:8080
+    networks:
+      - test_network
+networks:
+  test_network:
+    driver: bridge
+
