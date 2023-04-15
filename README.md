@@ -15,4 +15,4 @@ con tu configuración en el raiz del proyecto.
 
 Para ver el docker:
 docker ps -a
-docker run -it xxxxxxxx bash
+docker run -it xxxIMAGExxx bash
