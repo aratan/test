@@ -13,3 +13,6 @@ Como las aplicaciones pueden tener puertos distintos y servicios,
 recomiendo que te adactes el Dockerfile y docker-componer
 con tu configuración en el raiz del proyecto.
 
+Para ver el docker:
+docker ps -a
+docker run -it xxxxxxxx bash
