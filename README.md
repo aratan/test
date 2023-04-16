@@ -22,4 +22,5 @@ con tu configuración en el raiz del proyecto.
 Ademos del token de github tienes que configurar la validacion con docker
 docker logout
 docker login
+
 * ya puedes usar la app *
