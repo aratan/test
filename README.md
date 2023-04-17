@@ -1,8 +1,9 @@
 # Ultim
 ## app en go para controlar  las versiones
 https://github.com/aratan/test.git
-> /ultim ghp_TOKENxxxxxxxx aratan test main <
-> /ultim ghp_TOKENxxxxxxxx aratan test dev <
+> /ultim ghp_TOKENxxxxxxxx aratan test main 
+<p>
+> /ultim ghp_TOKENxxxxxxxx aratan test dev 
 
 La app la primera vez te detecta cambios que es la configuracion base.
 
