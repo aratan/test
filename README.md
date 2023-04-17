@@ -1,4 +1,4 @@
-# Ultim
+# GitDock
 ## app en go para controlar  las versiones
 https://github.com/aratan/test.git
 > /ultim ghp_TOKENxxxxxxxx aratan test main 
@@ -25,3 +25,4 @@ docker logout
 docker login
 
 * ya puedes usar la app *
+ahora con avisos por correo
