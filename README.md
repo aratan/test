@@ -26,5 +26,3 @@ docker login
 
 * ya puedes usar la app *
 ahora con avisos por correo
- 
-  
